@@ -34,6 +34,7 @@ Download Pi now and start your coding journey today! With Pi, programming has ne
 
 * **A Curious Fact:** Pi standard library provides a constant for PI, as all languages should, but with precision of over 150 digits after the decimal point (a f512 float-point type). See constants Radian.PI and Radian.π (yes, Unicode characters, U+03C0 π, are allowed as names.)
 
+-- The PiDev Guild
 <!--
 
 **Here are some ideas to get you started:**
