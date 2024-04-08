@@ -22,7 +22,7 @@ Discover the exhilaration of programming with Pi. Whether you're embarking on yo
 
   * **Support For Equations:** you can defined a special type of code block called "equation" which allows multi-line equation definition
 
-* **Efficient Memory Management:** Pi boasts sophisticated yet user-friendly memory management. Automatic Reference Garbage Collection combines ARC (Automatic Reference Counting) and Garbage Collection for seamless and error-free memory handling.
+* **Efficient Memory Management:** Pi boasts sophisticated yet user-friendly memory management. Automatic Reference Garbage Collection (ARGC) combines ARC (Automatic Reference Counting) and Garbage Collection (GC) for seamless and error-free memory handling.
 
 * **Scope-Based Memory Managers:** Pi introduces scope-based user-defined memory managers, allowing precise control over data lifecycle within specific temporal scopes.
 
